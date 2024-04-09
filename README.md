@@ -32,13 +32,13 @@ Apart from Markdown files, you can also create React components in respective di
 
 ## Packages added for easy use:
 
-- Material-UI - Material UI is an open-source React component library that implements Google's Material Design. The library includes an extensive set of intuitive customizability features. 
+- **Material-UI** - Material UI is an open-source React component library that implements Google's Material Design. The library includes an extensive set of intuitive customizability features. 
 
-- React Live - This brings you the ability to render React components with editable source code and live preview.
+- **react-live** - This brings you the ability to render React components with editable source code and live preview.
 
-- react-split-pane - This package allows you to create resizable split panes or panels in your documentation app.
+- **react-split-pane** - This package allows you to create resizable split panes or panels in your documentation app.
 
-- react-awesome-reveal - React Awesome Reveal offers a collection of animated reveal effects for elements. It allows you to add attention-grabbing animations, transitions, or effects to improve user engagement and visual appeal.
+- **react-awesome-reveal** - React Awesome Reveal offers a collection of animated reveal effects for elements. It allows you to add attention-grabbing animations, transitions, or effects to improve user engagement and visual appeal.
 
 Will be adding other packages in time for creating beautiful yet creative sites using docusaurus.
 

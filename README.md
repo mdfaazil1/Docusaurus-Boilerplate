@@ -47,7 +47,7 @@ Will be adding other packages in time for creating beautiful yet creative sites 
 **Clone the repository:**
 
 ```sh
-git clone https://github.com/your-username/docusaurus-boilerplate.git
+git clone https://github.com/mdfaazil1/Docusaurus-Boilerplate.git
 ```
 
 ### Installation

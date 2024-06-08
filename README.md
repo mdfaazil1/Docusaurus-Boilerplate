@@ -88,6 +88,10 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
 
+## Version
+
+This boilerplate consists of the latest version of docusaurus - v3.4.0, this boilerplate version will be updated with latest docusaurus release. 
+
 ## Happy documenting! 📚✨
 
 Feel free to modify it according to your preferences or add more details specific to your boilerplate repository.

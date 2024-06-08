@@ -28,7 +28,7 @@ You can easily customize the theme, add your content, and configure Docusaurus t
 
 ## Mix Markdown with React components
 
-Apart from Markdown files, you can also create React components in respective directories and import them into MDX files. This allows for more dynamic content creation and enhanced customization options for your documentation website.
+Apart from Markdown files, you can also create React components in respective directories(src/components) and import them into MDX files. This allows for more dynamic content creation and enhanced customization options for your documentation website.
 
 ## Packages added for easy use:
 
